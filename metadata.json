@@ -1,0 +1,6 @@
+{
+  "name": "Liquid Glass Wallpaper Studio",
+  "description": "Premium iPhone-inspired Liquid Glass clock wallpaper studio for Android with authentic optical refraction, frosted glass, depth effect layering, and Android project export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
